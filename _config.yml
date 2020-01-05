@@ -3,7 +3,7 @@ title: XJL's Blog
 subtitle: 坚持就是积累。
 #welcome_message: <a href="https://github.com/XXXXJL/xxxxjl.github.io" target="_blank">使用这个主题</a>
 description: 正在坚持码码ing...
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://xxxxjl.github.io">@xxxxjl</a>
 
 url: "https://xxxxjl.github.io"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
@@ -21,7 +21,7 @@ blog_button:
     description: 访问我的Blog
 
 # Navigation buttons in the front page.
-nav:
+#nav:
     #- {title: Projects, description: My Projects, url: 'https://xxxxjl.github.io'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
